@@ -1,7 +1,15 @@
-# JOV Office downloads
+# Office Alternative for Mac (formerly JOV Office)
 
-The disk images of [JOV Office](https://jov-office.vercel.app), a private office app for the Mac.
-Download the newest version from the website: https://jov-office.vercel.app/download.html
+Office Alternative is a local-first Microsoft Office alternative and PDF editor for macOS. Open and edit Word (.docx), Excel (.xlsx), CSV, and PowerPoint (.pptx) files, and annotate, fill, sign, or redact PDFs. Document editing works offline and files stay on your Mac.
 
-Each file here is made by the app's release script and signed for updates; installed copies
-download their updates from here.
+**Requires macOS 14 Sonoma or later.** Supports Apple silicon and Intel Macs.
+
+- [Official website](https://officealternative.app/)
+- [Download Office Alternative for Mac](https://officealternative.app/download.html)
+- [Latest disk image on GitHub](https://github.com/jovywahba/JOV-Office-releases/releases/latest)
+- [Compare Office apps for Mac](https://officealternative.app/compare)
+- [Pricing and 7-day trial](https://officealternative.app/pricing.html)
+
+This repository hosts the public Mac downloads. The Office Alternative release script produces the disk images, and installed copies fetch signed updates from this repository.
+
+Office Alternative is made by [JOV](https://officealternative.app/about.html) and is independent of Microsoft.
